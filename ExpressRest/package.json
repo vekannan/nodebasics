@@ -1,0 +1,15 @@
+{
+  "name"  : "ExpressRest",
+  "version"  : "0.0.1",
+  "description" : "Express rest application",
+  "main"  : "app.js",
+  "author"  : {
+    "name"  : "venkatesan Kannan",
+    "email" : "sharevenki@gamil.com"
+  },
+  "dependencies"  : {
+    "express" : "4.14.0",
+    "jade"  : "1.11.0",
+    "stylus"  : "*"
+  }
+}
