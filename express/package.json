@@ -1,0 +1,10 @@
+{
+  "name" : "ExpressExample1",
+  "description" : "Express example ",
+  "version" : "0.0.1",
+  "private" : true,
+  "dependency" : {
+    "express" : "4.14.0",
+    "async" : "0.x"
+  }
+}
