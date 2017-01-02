@@ -14,6 +14,10 @@ module.exports = function(grunt){
       js: {
         files: ['./src/**/*.js'],
         tasks: ['concat:js'],
+        options: {
+        // Start another live reload server on port 1337
+          livereload: true,
+        },
       },
       css: {
         files: ['./src/**/*.css'],
